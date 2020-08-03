@@ -1,5 +1,9 @@
 # Enumerable Practice
 
+## Instructions
+
+Fork this repo, then run `git clone` to download it locally. Then `cd` into the downloaded directory and open it in your text editor with `code .`.
+
 In the `run.rb` file, there is an array of hashes representing different spicy foods. 
 
 ```rb
@@ -29,3 +33,14 @@ Define methods for the following deliverables:
     - given an array of spicy foods, **output to the terminal** ONLY the spicy foods that have a heat level greater than 5, in the following format: `Buffalo Wings (American) | Heat Level: 🌶🌶🌶`. Try to use methods you've already written to solve this!
 - **BONUS** `average_heat_level(spicy_foods)` 
     - given an array of spicy foods, **return an integer** representing the average heat level of all the spicy foods in the array.
+
+
+## Submitting
+
+When you’re finished, run the following commands in your terminal to submit:
+
+```
+git add .
+git commit -m 'Done'
+git push
+```
